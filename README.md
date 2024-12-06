@@ -6,6 +6,7 @@ by Group3 : Natasha Elliott,Michael Luc,Rajani Muttumula, Lishi Cai
 
 This project aims to create an ETL pipeline to extract, transform, 
 and load property sales data from the NSW Property Sales Information platform into a SQL database. 
+
 The database has two tables, houses and units, 
 and provide data access for future use through Pandas.
 
