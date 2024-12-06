@@ -2,19 +2,19 @@
 by Group3 : Natasha Elliott,Michael Luc,Rajani Muttumula, Lishi Cai
 
 
-# Overview of the project and its purpose:
+## 1. Overview of the project and its purpose:
 
-# Instructions on how to use and interact with the project
+## 2. Instructions on how to use and interact with the project
 
-# Documentation of the database used and why (e.g. benefits of SQL or NoSQL for this project)
+## 3. Documentation of the database used and why (e.g. benefits of SQL or NoSQL for this project)
 
-# ETL workflow with diagrams or ERD
+## 4. ETL workflow with diagrams or ERD
 
-# Summarising efforts for ethical considerations made in the project
+## 5. Summarising efforts for ethical considerations made in the project
 
-# References for the data source(s)
+## 6. References for the data source(s)
 
-# References for any code used that is not your own.
+## 7. References for any code used that is not your own
 
 
 
