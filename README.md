@@ -4,8 +4,8 @@ by Group3 : Natasha Elliott,Michael Luc,Rajani Muttumula, Lishi Cai
 
 ## 1. Scope and purpose of the project
 
-This project aims to create an ETL pipeline to extract, transform, and load property sales data from the NSW Property 
-Sales Information platform into a SQL database optimized for querying. 
+**This project aims to create an ETL pipeline to extract, transform, and load property sales data from the NSW Property 
+Sales Information platform into a SQL database optimized for querying.** 
 
 The database consists of two tables, one for 
 houses and another for units, and provides streamlined access for future use through tools like Pandas. 
