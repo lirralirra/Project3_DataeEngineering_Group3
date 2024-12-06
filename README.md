@@ -1,7 +1,8 @@
 # Project 3 - Data Engineering  
 by Group3 : Natasha Elliott,Michael Luc,Rajani Muttumula, Lishi Cai
 
-
+Libraries Used:
+Pola.rs, 
 
 
 ## 1. Scope and purpose of the project
@@ -14,7 +15,7 @@ houses and another for units, and provides streamlined access for future use thr
 
 Ethical considerations 
 include ensuring data privacy by anonymizing sensitive information, adhering to the platform’s terms 
-of use, and documenting the data source transparently to promote responsible data usage.
+of use, and documenting the data source transparently to promote responsible data usage. This work is covered by the Creative Commons.
 
 
 ## 2. Instructions on how to use and interact with the project
@@ -28,7 +29,7 @@ of use, and documenting the data source transparently to promote responsible dat
 ## 6. References for the data source(s)
 
 ## 7. References for any code used that is not your own
-
+Code designed and developed by team, assisted by ChatGPT for Pola.rs
 
 
 
