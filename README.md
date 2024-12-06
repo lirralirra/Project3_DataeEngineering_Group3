@@ -2,6 +2,8 @@
 by Group3 : Natasha Elliott,Michael Luc,Rajani Muttumula, Lishi Cai
 
 
+
+
 ## 1. Scope and purpose of the project
 
 **This project aims to create an ETL pipeline to extract, transform, and load property sales data from the NSW Property 
